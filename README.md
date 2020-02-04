@@ -1,2 +1,2 @@
 # memosite
-Alon &amp; Gary Memo Project
+Alon &amp; Gary -  Memo Project
